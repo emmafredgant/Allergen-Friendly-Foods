@@ -15,12 +15,13 @@ Our data is focused on the top nine food allergies, which account for 90% of all
 -We cannot accept proprietary formats, or formats encrypted with password protection. File size should be reasonable. Machine- and human-readable CSV or XML spreadsheets are our preferred formats for data submissions (JSON and Markdown are acceptable). Metadata is important because it helps us organize the data and offer proper attribution. 
 
     If you have the technical knowledge, please make sure that your data: 
-    a. Is in a machine-readable format. If you need to convert a PDF to a CSV file, Tabula is a helpful tool. 
-    b. Adheres to the principles of tidy data, such as:
-      -Avoids special characters such as commas in numerical values (ex: 1000✓ vs 1,000 ✗ or 99.9✓ vs 99.9% ✗).
-      -Variables are columns and observations are rows.
-      -Each cell contains only one value.
-    c. Adheres to the format indicated in the Transformation and Quality documentation in this repository. Repository curators will review all submissions for accuracy and completeness.
+        a. Is in a machine-readable format. If you need to convert a PDF to a CSV file, Tabula is a helpful tool. 
+        b. Adheres to the principles of tidy data, such as:
+            -Avoids special characters such as commas in numerical values (ex: 1000✓ vs 1,000 ✗ or 99.9✓ vs 99.9% ✗).
+            -Variables are columns and observations are rows.
+            -Each cell contains only one value.
+        c. Adheres to the format indicated in the Transformation and Quality documentation in this repository. Repository curators will     
+           review all submissions for accuracy and completeness.
 
     *If submitter performs data conversion, transformation, or translation, include the original source documents along with any new files.
     If you do not have the technical skills to assure that your data is 1) in the correct file format and 2) normalized according to tidy data and repository principles, you may submit other formats, and our data curators will evaluate and normalize the data as necessary.*
