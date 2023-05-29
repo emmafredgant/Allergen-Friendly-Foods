@@ -5,11 +5,11 @@
 The Allergen-Friendly Food Repository is happy to take submissions to support the goals of our users. The more data we have, the safer you can eat!  If you would like to submit a data source or dataset to this repository, please work through the steps listed below. 
 
 1. Think about the context.
-This repository collects data about allergen presence and absence in food. Our level of specificity is individual items, not brands, so we cannot accept datasets indicating general allergen sensitivity over whole brands. 
-Our data is focused on the top nine food allergies, which account for 90% of all food allergies:  milk, eggs, fish, shellfish, tree nuts, peanuts, sesame, gluten, and soybeans. As possible, we are also interested in collecting data about foods that are kosher, halal, vegan, vegetarian, and organic. We will accept data about any of these allergen/food needs as long as the other criteria in this collection policy are met. 
-    Answer these questions:
-    Is my data specific enough?
-    Is my data about one of the allergens listed in 1b?
+This repository collects data about allergen presence and absence in food. Our level of specificity is individual items, not brands, so we cannot accept datasets indicating general allergen sensitivity over whole brands. <br/>
+Our data is focused on the top nine food allergies, which account for 90% of all food allergies:  milk, eggs, fish, shellfish, tree nuts, peanuts, sesame, gluten, and soybeans. As possible, we are also interested in collecting data about foods that are kosher, halal, vegan, vegetarian, and organic. We will accept data about any of these allergen/food needs as long as the other criteria in this collection policy are met. <br/>
+    Answer these questions:<br/>
+    Is my data specific enough?<br/>
+    Is my data about one of the allergens listed in 1b?<br/>
 
 2. Think about the format.
 -We cannot accept proprietary formats, or formats encrypted with password protection. File size should be reasonable. Machine- and human-readable CSV or XML spreadsheets are our preferred formats for data submissions (JSON and Markdown are acceptable). Metadata is important because it helps us organize the data and offer proper attribution. 
